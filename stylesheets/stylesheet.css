@@ -396,6 +396,7 @@ Small Device Styles
 
   #project_title {
   font-size: 2em;
+  display:none;
   }
 
   h1 {
