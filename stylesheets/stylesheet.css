@@ -381,6 +381,9 @@ Small Device Styles
 *******************************************************************************/
 
 @media screen and (max-width: 580px) {
+  #delete4respo {
+		display:none
+  }
   body {
     font-size:1.2em;
   }
